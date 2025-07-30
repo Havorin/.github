@@ -1,4 +1,25 @@
-## Hi there 👋
+# Welcome to Havorin 👋
+
+We are a small team dedicated to developing practical and helpful tools inspired by our daily lives and observations.  
+Our mission is to create open and accessible projects that simplify tasks, solve real problems, and make life easier.
+
+💡 **Our focus:**  
+- Useful solutions  
+- Open-source projects to improve our portfolios 
+- Projects to real-world use  
+
+Feel free to explore our repositories!  
+
+Developers of our Organization:
+<br>
+|||
+|:---:|:---:|
+| <img src="https://avatars.githubusercontent.com/u/66739812?v=4" width="100px;" alt="Rhaissa Zeferino">| <img src="https://avatars.githubusercontent.com/u/73133811?v=4" width="100px;" alt="Flávio Barbosa" /> |
+| <b>Rhaissa Zeferino</b>|<b>Flávio Barbosa</b> |
+
+
+---
+✨ **Thank you for visiting!**
 
 <!--
 
